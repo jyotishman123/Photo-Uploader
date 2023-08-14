@@ -1,0 +1,29 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "A file uploader with Node & Multer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devkant21/File-Uploader.git"
+  },
+  "keywords": [
+    "node",
+    "multer"
+  ],
+  "author": "Devkant Swargiary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devkant21/File-Uploader/issues"
+  },
+  "homepage": "https://github.com/Devkant21/File-Uploader#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
